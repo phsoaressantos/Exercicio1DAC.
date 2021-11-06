@@ -12,6 +12,9 @@ public class Main {
         //nome da maquina.
         String nomeDaMaquina = InetAddress.getLocalHost().getHostName();
         System.out.println(nomeDaMaquina);
+        String teste = "Agora que são elas";
+        System.out.println(teste);
+
     }
 
 }

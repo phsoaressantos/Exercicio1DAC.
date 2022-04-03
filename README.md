@@ -15,7 +15,7 @@ Por meio do Open Finance, SOFIA analisará e recomendará para o cliente produto
 - Análise Perfil de Investimnentos.
 
 ### Função 03:
-- - Obtenção de dados histórico do cliente em demais Instituições Financeiras, que serão estratégicos para o negócio do Banco Safra, para propor novos produtos e serviços mais competitivos.
+- Obtenção de dados histórico do cliente em demais Instituições Financeiras, que serão estratégicos para o negócio do Banco Safra, para propor novos produtos e serviços mais competitivos.
 
 ### Função 04:
 -  Cria uma carteira de investimentos.

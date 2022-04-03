@@ -30,7 +30,7 @@ Smartphone Version:
 Para ver o desenvolvimento acesse o planejamento:
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phsoaressantos/Saas.git)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)] (https://https://trello.com/invite/b/AQ2vJ5Iy/453e6b38897626b21f1731c1918418c4/sprint-2-desenvolvimento)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)] (https://trello.com/invite/b/AQ2vJ5Iy/453e6b38897626b21f1731c1918418c4/sprint-2-desenvolvimento)
 
 Para ver o desenvolvimento mais detalhado acesse o devlog:
 

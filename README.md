@@ -1,6 +1,6 @@
 <img src="exemplo-image.png" alt="exemplo imagem">
 
-# Nome Do Projeto
+# Projeto Sofia
 
 Descrição curta do projeto. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
@@ -42,10 +42,12 @@ Para ver o desenvolvimento mais detalhado acesse o devlog:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🤝 Contribuição
 
 Projeto aberto para ajuda!
+#CURTIMOSAJORNADA!
 
 Lembre de seguir os requisitos da licensa...
 

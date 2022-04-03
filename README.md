@@ -64,7 +64,7 @@ Lembre-se de seguir o padrão MVC estabelecido e seguir as boas praticas de comm
 
 ## 🔖 Vídeo Demo
 
-### Suporte Ou Contato do Team
+### Contato do nosso Team
 
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/956541505487667231/959447120220393482)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shimoyama-52911b14b/)

@@ -2,28 +2,32 @@
 
 # Projeto Sofia 💰
 
-Descrição curta do projeto. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+SOFIA = SAFRA OPEN FINANCE INVESTMENT ADVISOR
 
-## 🔧 Funçoes (opcional)
+Por meio do Open Finance, SOFIA analisará e recomendará para o cliente produtos e investimentos de forma otimizada, através da integração do saldo bancário das contas bancárias do cliente, em suas respectivas instituições Financeiras.
+
+## 🔧 Funçoes 
 
 ### Função 01:
-- Descrição Da Função
+- Aceite do consentimento de utilização dos dados dos clientes
 
 ### Função 02:
-- Descrição Da Função
+- Análise Perfil de Investimnentos.
 
-## Download
+### Função 03:
+- - Obtenção de dados histórico do cliente em demais Instituições Financeiras, que serão estratégicos para o negócio do Banco Safra, para propor novos produtos e serviços mais competitivos.
 
-Computer Version:
+### Função 04:
+-  Cria uma carteira de investimentos.
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/seu-usuario/seu-repositorio/releases)
-[![Linux](https://img.shields.io/badge/Linux-FF6600?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/seu-usuario/seu-repositorio/releases)
-[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/seu-usuario/seu-repositorio/releases)
 
-Smartphone Version:
+## Acesso pela Web Multi Device
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)](https://github.com/seu-usuario/seu-repositorio/releases)
-[![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://github.com/seu-usuario/seu-repositorio/releases)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF6600?style=for-the-badge&logo=linux&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)]
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ## Veja o desenvolvimento do projeto:
 
@@ -60,9 +64,19 @@ Lembre-se de seguir o padrão MVC estabelecido e seguir as boas praticas de comm
 
 ## 🔖 Vídeo Demo
 
-### Support Ou Contato
+### Suporte Ou Contato do Team
 
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/956541505487667231/959447120220393482)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shimoyama-52911b14b/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-baggio-96b4a0195/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-ferreira-vilela-32519a171/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/paulo-henrique-santos-mba-19177aa3)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-fantato-964691190/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-vieira-fontes-376a2569/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herik-mitre-473999101)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronan-tavares/)
+
+
+
 
 <p align="center">Copyright © 2022 Team SaaS - Projeto Sofia - Hackaton Technee</p>

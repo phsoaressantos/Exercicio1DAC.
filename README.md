@@ -1,6 +1,6 @@
 <img src="exemplo-image.png" alt="exemplo imagem">
 
-# Projeto Sofia
+# Projeto Sofia 💰
 
 Descrição curta do projeto. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
@@ -30,7 +30,7 @@ Smartphone Version:
 Para ver o desenvolvimento acesse o planejamento:
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phsoaressantos/Saas.git)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)(https://trello.com/invite/b/AQ2vJ5Iy/453e6b38897626b21f1731c1918418c4/sprint-2-desenvolvimento)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/invite/b/AQ2vJ5Iy/453e6b38897626b21f1731c1918418c4/sprint-2-desenvolvimento)
 
 Para ver o desenvolvimento mais detalhado acesse o devlog:
 
@@ -41,27 +41,28 @@ Para ver o desenvolvimento mais detalhado acesse o devlog:
 [![IDE](https://img.shields.io/badge/Visual_studio_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+[![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 
 ## 🤝 Contribuição
 
-Projeto aberto para ajuda!
-#CURTIMOSAJORNADA!
+Aberta para todos do Team Saas!
+#CURTIMOSAJORNADA
 
-Lembre de seguir os requisitos da licensa...
+Lembre-se de seguir o padrão MVC estabelecido e seguir as boas praticas de commits (v1.0.0-beta.3)
 
-[![Manual](https://img.shields.io/badge/Manual-999999?style=for-the-badge&logo=BookStack&logoColor=white
-)](https://github.com/seu-usuario/seu-repositorio/manual.md)
+[![Commits](https://img.shields.io/badge/Manual-999999?style=for-the-badge&logo=BookStack&logoColor=white
+)](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.3/#especifica%c3%a7%c3%a3o)
 
 ## 🔖 Licensa
 [![LICENSA](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
 
-## 💰 Donate
+## 🔖 Vídeo Pitch
 
+## 🔖 Vídeo Demo
 
 ### Support Ou Contato
 
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-server)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/956541505487667231/959447120220393482)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
 
 <p align="center">Copyright © 2022 Team SaaS - Projeto Sofia - Hackaton Technee</p>
